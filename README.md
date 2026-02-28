@@ -1,53 +1,49 @@
 # 👋 Hello, I'm William Malheiros
 
-🎯 Data Analyst in Transition | SQL & Excel | Business Insights  
-🌎 Based in Brazil — Open to Remote & Freelance Opportunities  
+**Data Analyst | SQL • Excel • Business Intelligence**  
+🌎 Based in Brazil — Open to Remote Opportunities  
 
 ---
 
 ## 🚀 About Me
 
-I'm transitioning into Data Analytics with a strong focus on SQL and Excel to solve real business problems.
+I am a Data Analyst focused on transforming data into strategic business decisions.
 
-Currently building hands-on projects focused on:
-
-- Sales data analysis
-- Revenue insights
-- Customer behavior analysis
-- Business performance reporting
-
-My goal is to transform raw data into clear, actionable insights that support decision-making.
+I work with SQL and Excel to extract insights, optimize processes and support data-driven decision-making. My projects are designed around real-world business scenarios, emphasizing clarity, performance, and actionable insights.
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Technical Stack
 
-**Data Analytics**
-- SQL (Data Querying & Business Analysis Projects)
-- Excel (Dashboards, Pivot Tables, KPIs)
-
-**Programming**
-- Python (for Data Analysis – in progress)
+![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-003B57?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Business%20Focused-1F2937?style=flat)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Decision%20Making-0A66C2?style=flat)
 
 ---
 
-## 📊 Featured Project
+## 📂 Featured Projects
 
-### 📌 Sales Data Analysis with SQL
-Business case simulation analyzing e-commerce sales data:
+### 📌 Sales Performance Analysis
+- Data cleaning and transformation using SQL
+- KPI analysis and revenue trend evaluation
+- Strategic insights to improve revenue performance
 
-- Total Revenue Analysis
-- Monthly Growth Trends
-- Top Customers
-- Best-Selling Products
-- Regional Performance
-
-(Excel Executive Dashboard – In Progress)
+### 📌 Customer Behavior Analysis
+- Customer segmentation logic
+- Pattern and trend identification
+- Data-backed recommendations for decision-making
 
 ---
 
-## 📈 Current Focus
+## 📈 Professional Focus
 
-- Strengthening SQL for business applications
-- Building portfolio-ready analytics projects
-- Preparing for freelance data analysis opportunities
+- Business-oriented data analysis  
+- KPI development and performance tracking  
+- SQL optimization for analytical reporting  
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-William%20Malheiros-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-malheiros)
