@@ -1,40 +1,53 @@
-<h1 align="center">👋 Hello, I'm William Malheiros</h1>
+# 👋 Hello, I'm William Malheiros
 
-<p align="center">
-📊 Data Analytics Student focused on SQL, Excel and Power BI <br>
-🌎 Based in Brazil — Open to Remote Opportunities
-</p>
+🎯 Data Analyst in Transition | SQL & Excel | Business Insights  
+🌎 Based in Brazil — Open to Remote & Freelance Opportunities  
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Systems Analysis and Development Student  
-- 📚 Currently focused on SQL and Data Analysis  
-- 📈 Building real-world projects to solve business problems  
-- 🌍 Intermediate English — aiming for international remote roles  
+I'm transitioning into Data Analytics with a strong focus on SQL and Excel to solve real business problems.
+
+Currently building hands-on projects focused on:
+
+- Sales data analysis
+- Revenue insights
+- Customer behavior analysis
+- Business performance reporting
+
+My goal is to transform raw data into clear, actionable insights that support decision-making.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 📊 Data Analytics
-- SQL (Learning & Building Projects)
-- Excel
-- Power BI (Next Step)
+**Data Analytics**
+- SQL (Data Querying & Business Analysis Projects)
+- Excel (Dashboards, Pivot Tables, KPIs)
 
-### 🐍 Programming
-- Python (for Data Analysis – learning phase)
-
----
-
-## 📂 Featured Projects
-🚧 Coming soon:
-- Sales Data Analysis with SQL  
-- Business Insights Dashboard  
+**Programming**
+- Python (for Data Analysis – in progress)
 
 ---
 
-## 📫 Connect with me
+## 📊 Featured Project
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-malheiros-7433442a1/)
+### 📌 Sales Data Analysis with SQL
+Business case simulation analyzing e-commerce sales data:
+
+- Total Revenue Analysis
+- Monthly Growth Trends
+- Top Customers
+- Best-Selling Products
+- Regional Performance
+
+(Excel Executive Dashboard – In Progress)
+
+---
+
+## 📈 Current Focus
+
+- Strengthening SQL for business applications
+- Building portfolio-ready analytics projects
+- Preparing for freelance data analysis opportunities
