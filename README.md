@@ -15,10 +15,10 @@ I work with SQL and Excel to extract insights, optimize processes and support da
 
 ## 🔧 Technical Stack
 
-![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-003B57?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database%20Queries-0A66C2?style=flat&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Business%20Focused-1F2937?style=flat)
-![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Decision%20Making-0A66C2?style=flat)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Decision%20Making-1F2937?style=flat)
 
 ---
 
